@@ -1,0 +1,14 @@
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.csprojAssemblyReference.cache
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\MainWindow.baml
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\App.g.cs
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator_MarkupCompile.cache
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.g.resources
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.Properties.Resources.resources
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.csproj.GenerateResource.cache
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\bin\Debug\Tip_Calculator.exe.config
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\bin\Debug\Tip_Calculator.exe
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\bin\Debug\Tip_Calculator.pdb
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.exe
+C:\Users\john\source\repos\Tip_Calculator\Tip_Calculator\obj\Debug\Tip_Calculator.pdb
